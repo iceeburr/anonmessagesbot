@@ -1,0 +1,16 @@
+{
+    "name": "Português 🇵🇹",
+    "ownerSelfNotAllow": "Não pode enviar mensagens para si próprio. ❌",
+    "onCooldown": "Está a tentar enviar mensagens demasiado depressa! Abrande.\nPor favor, espere {timeLeft} segundos.",
+    "newLanguageSet": "Idioma da interface definido para português! 🇵🇹",
+    "pollReplyPost": "Devido às limitações da API do Telegram, o bot tem de criar a sua própria sondagem. Os votos da sondagem original não serão transferidos. Podes ver e reencaminhar a nova sondagem acima",
+    "messageSent": "A tua mensagem foi enviada com sucesso! ✅",
+    "helpMessage": "👋🏻 Bem-vindo ao bot de mensagens anónimas! \n✍🏻 Envia-me uma mensagem e eu reencaminho-a anonimamente para o meu criador.\nℹ️ Leia mais sobre mim - /info\n🔡 Altere o idioma da interface - /language\n🔐 Apague os seus dados - /data\n\n❕Aviso❕\nPor causa de limitações, não posso encaminhar diretamente uma mensagem de enquete, mas vou me certificar de deixar uma nota com a quantidade original de votos.",
+    "infoMessage": "O código por detrás de tudo isto é open-source.\nA razão pela qual fiz isto foi porque um bot semelhante começou a bombardear-me com anúncios. Este é um projeto sem fins lucrativos, não há anúncios e a recolha de dados é mantida no mínimo. Se fores um administrador de um canal que queira usar este bot para si próprio, estás à vontade para o alojar. Mais sobre isso aqui.\nhttps://github.com/iceeburr/anonmessagesbot",
+    "dataMessage": "Este bot segue uma política rigorosa de não recolha de dados. A sua identificação de utilizador é mantida encriptada e com hash. Este bot nunca lhe enviará anúncios ou manterá quaisquer estatísticas. Se desejar apagar completamente os seus dados, prima o botão abaixo. Se decidir voltar a utilizar o bot, será novamente adicionado à base de dados.",
+    "deleteData": "🗑 APAGAR OS MEUS DADOS 🗑",
+    "dataDeleted": "Os seus dados foram eliminados.",
+    "confirmSend": "Confirmar ✅",
+    "confirmMessage": "Tem a certeza de que quer enviar?",
+    "languageSelect": "Por favor, seleccione o seu idioma."
+}

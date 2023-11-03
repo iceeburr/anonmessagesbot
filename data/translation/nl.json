@@ -1,0 +1,16 @@
+{
+    "name": "Nederlands 🇳🇱",
+    "ownerSelfNotAllow": "Je kunt geen berichten naar jezelf sturen. ❌",
+    "onCooldown": "Je probeert te snel berichten te versturen!\nWacht alstublieft {timeLeft} seconden.",
+    "newLanguageSet": "Interface taal ingesteld op Nederlands! 🇳🇱",
+    "pollReplyPost": "Vanwege de API-beperkingen van Telegram moet de bot zijn eigen poll maken. Stemmen van de originele poll worden niet meegenomen. Je kunt de nieuwe poll hierboven bekijken en doorsturen.",
+    "messageSent": "Je bericht is succesvol verzonden! ✅",
+    "helpMessage": "👋🏻 Welkom bij de anonieme berichten bot!\n✍🏻 Stuur me een bericht en ik zal het anoniem doorsturen naar mijn maker.\nℹ️ Lees meer over mij - /info\n🔡 Verander de taal van de interface - /language\n🔐 Verwijder je gegevens - /data❕Kennisgeving❕ Helaas kan ik vanwege beperkingen niet direct een poll bericht doorsturen, maar ik zal ervoor zorgen dat ik een notitie achterlaat met het oorspronkelijke aantal stemmen.",
+    "infoMessage": "De code achter dit alles is open-source.\n^De hele reden dat ik dit heb gemaakt was omdat een soortgelijke bot me begon te bombarderen met advertenties. Dit is een project zonder winstoogmerk, er zijn geen advertenties en het verzamelen van gegevens wordt tot een minimum beperkt. Als je een admin bent van een kanaal dat deze bot voor zichzelf wil gebruiken, voel je dan vrij om hem zelf te hosten. Meer hierover hier.\nhttps://github.com/iceeburr/anonmessagesbot",
+    "dataMessage": "Deze bot volgt een strikt no data collection beleid. Je gebruikersnaam wordt versleuteld en gehasht bewaard. Deze bot zal u nooit advertenties sturen of statistieken bijhouden. Als u uw gegevens volledig wilt wissen, druk dan op de knop hieronder. Als u besluit de bot opnieuw te gebruiken, wordt u opnieuw toegevoegd aan de database.",
+    "deleteData": "🗑 WIS MIJN GEGEVENS 🗑",
+    "dataDeleted": "Je gegevens zijn verwijderd.",
+    "confirmSend": "Bevestig ✅",
+    "confirmMessage": "Weet je zeker dat je het wilt verzenden?",
+    "languageSelect": "Selecteer uw taal."
+}

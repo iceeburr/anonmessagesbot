@@ -1,0 +1,16 @@
+{
+    "name": "Indonesian 🇮🇩",
+    "ownerSelfNotAllow": "Anda tidak dapat mengirim pesan ke diri Anda sendiri. ❌",
+    "onCooldown": "Anda mencoba mengirim pesan terlalu cepat! Perlambatlah.\nTunggu {timeLeft} detik.",
+    "newLanguageSet": "Bahasa antarmuka diatur ke Bahasa Indonesia! 🇮🇩",
+    "pollReplyPost": "Karena keterbatasan API Telegram, bot harus membuat jajak pendapatnya sendiri. Suara dari jajak pendapat asli tidak akan diteruskan. Anda dapat melihat dan meneruskan jajak pendapat baru di atas.",
+    "messageSent": "Pesan Anda telah berhasil dikirim! ✅",
+    "helpMessage": "👋🏻 Selamat datang di bot pesan anonim!\n✍🏻 Kirimi saya pesan dan saya akan meneruskannya secara anonim ke pembuatnya. \nℹ️ Baca lebih lanjut tentang saya - /info\n🔡 Ubah bahasa antarmuka - /language\n🔐 Hapus data Anda - /data\n\n❕Pemberitahuan❕\nSayangnya, karena keterbatasan, saya tidak dapat meneruskan pesan jajak pendapat secara langsung, tetapi saya akan memastikan untuk meninggalkan catatan dengan jumlah suara asli.",
+    "infoMessage": "Kode di balik semua ini adalah sumber terbuka.\nAlasan saya membuat ini adalah karena bot serupa mulai membombardir saya dengan iklan. Ini adalah proyek nirlaba, tidak ada iklan dan pengumpulan data seminimal mungkin. Jika Anda seorang admin dari sebuah saluran yang ingin menggunakan bot ini untuk dirinya sendiri, silakan untuk meng-host-nya sendiri. Lebih lanjut tentang hal itu di sini.\nhttps://github.com/iceeburr/anonmessagesbot",
+    "dataMessage": "Bot ini mengikuti kebijakan tanpa pengumpulan data yang ketat. Id pengguna Anda akan dienkripsi dan di-hash. Bot ini tidak akan pernah mengirimi Anda iklan atau menyimpan statistik apa pun. Jika Anda ingin menghapus data Anda sepenuhnya, silakan tekan tombol di bawah ini. Jika Anda memutuskan untuk menggunakan bot ini lagi, Anda akan ditambahkan kembali ke dalam basis data.",
+    "deleteData": "🗑 HAPUS DATA SAYA 🗑",
+    "dataDeleted": "Data Anda telah dihapus.",
+    "confirmSend": "Konfirmasi ✅",
+    "confirmMessage": "Apakah Anda yakin ingin mengirimkannya?",
+    "languageSelect": "Silakan pilih bahasa Anda."
+}

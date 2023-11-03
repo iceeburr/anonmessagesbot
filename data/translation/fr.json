@@ -1,0 +1,16 @@
+{
+    "name": "Français 🇫🇷",
+    "ownerSelfNotAllow": "Vous ne pouvez pas vous envoyer de messages à vous-même. ❌",
+    "onCooldown": "Vous essayez d'envoyer des messages trop rapidement! Ralentissez.\nVeuillez attendre {timeLeft} secondes.",
+    "newLanguageSet": "La langue de l'interface est le Français! 🇫🇷",
+    "pollReplyPost": "En raison des limitations de l'API de Telegram, le robot doit créer son propre sondage. Les votes du sondage original ne seront pas reportés. Vous pouvez voir et transmettre le nouveau sondage ci-dessus.",
+    "messageSent": "Votre message a été envoyé avec succès! ✅",
+    "helpMessage": "👋🏻 Bienvenue sur le bot de messages anonymes!\n✍🏻 Envoyez-moi un message et je le transmettrai anonymement à mon créateur. \nℹ️ En savoir plus sur moi - /info\n🔡 Changer la langue de l'interface - /language\n🔐 Supprimer vos données - /data\n❕Notice❕\nTrès malheureusement à cause des limitations je ne peux pas directement transmettre un message de sondage, mais je m'assurerai de laisser une note avec le montant original des votes.",
+    "infoMessage": "Le code derrière tout ceci est open-source. La raison pour laquelle j'ai créé ceci est qu'un bot similaire a commencé à me bombarder de publicités. Il s'agit d'un projet à but non lucratif, il n'y a pas de publicité et la collecte de données est réduite au minimum. Si vous êtes un administrateur d'un canal cherchant à utiliser ce bot pour lui-même, n'hésitez pas à l'héberger vous-même. Plus d'informations ici.\nhttps://github.com/iceeburr/anonmessagesbot",
+    "dataMessage": "Ce robot suit une politique stricte de non collecte de données. Votre identifiant est crypté et haché. Ce robot ne vous enverra jamais de publicités et ne conservera aucune statistique. Si vous souhaitez effacer complètement vos données, veuillez cliquer sur le bouton ci-dessous. Si vous décidez d'utiliser à nouveau le robot, vous serez réintroduit dans la base de données",
+    "deleteData": "🗑 SUPPRIMER MES DONNÉES 🗑",
+    "dataDeleted": "Vos données ont été supprimées",
+    "confirmSend": "Confirmation ✅",
+    "confirmMessage": "Êtes-vous sûr de vouloir l'envoyer ?",
+    "languageSelect": "Veuillez sélectionner votre langue."
+}

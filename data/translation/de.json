@@ -1,0 +1,16 @@
+{
+    "name": "Deutsch 🇩🇪",
+    "ownerSelfNotAllow": "Sie können keine Nachrichten an sich selbst senden. ❌",
+    "onCooldown": "Sie versuchen, Nachrichten zu schnell zu senden! Verlangsamen Sie sich.\nBitte warten Sie {timeLeft} Sekunden.",
+    "newLanguageSet": "Interface-Sprache auf Deutsch eingestellt! 🇩🇪",
+    "pollReplyPost": "Aufgrund der API-Beschränkungen von Telegram muss der Bot seine eigene Umfrage erstellen. Die Stimmen der ursprünglichen Umfrage werden nicht übernommen. Du kannst die neue Umfrage oben sehen und weiterleiten.",
+    "messageSent": "Ihre Nachricht wurde erfolgreich gesendet! ✅",
+    "helpMessage": "👋🏻 Willkommen beim Bot für anonyme Nachrichten!\n✍🏻 Schick mir eine Nachricht und ich werde sie anonym an meinen Schöpfer weiterleiten. \nℹ️ Lies mehr über mich - /info\n🔡 Ändere die Sprache der Benutzeroberfläche - /language\n🔐 Lösche deine Daten - /data\n\n❕Hinweis❕\nAus Gründen von Beschränkungen kann ich eine Umfrage-Nachricht leider nicht direkt weiterleiten, aber ich werde sicherstellen, dass ich eine Notiz mit der ursprünglichen Anzahl der Stimmen hinterlasse.",
+    "infoMessage": "Der Code dahinter ist Open-Source.\nDer ganze Grund, warum ich dies gemacht habe, war, weil ein ähnlicher Bot angefangen hat, mich mit Werbung zu bombardieren. Dies ist ein nicht-kommerzielles Projekt, es gibt keine Werbung und die Datenerfassung wird auf ein Minimum beschränkt. Wenn du ein Administrator eines Kanals bist, der diesen Bot für sich nutzen möchte, kannst du ihn gerne selbst hosten. Mehr dazu hier.\nhttps://github.com/iceeburr/anonmessagesbot",
+    "dataMessage": "Dieser Bot folgt einer strikten Politik, keine Daten zu sammeln. Deine Benutzerkennung wird verschlüsselt und gehasht aufbewahrt. Dieser Bot wird Ihnen niemals Werbung schicken oder irgendwelche Statistiken führen. Wenn Sie Ihre Daten vollständig löschen möchten, klicken Sie bitte auf die Schaltfläche unten. Wenn du dich entscheidest, den Bot wieder zu benutzen, wirst du wieder in die Datenbank aufgenommen.",
+    "deleteData": "🗑 LÖSCHE MEINE DATEN 🗑",
+    "dataDeleted": "Ihre Daten wurden gelöscht.",
+    "confirmSend": "Bestätigen ✅",
+    "confirmMessage": "Sind Sie sicher, dass Sie es senden wollen?",
+    "languageSelect": "Bitte wählen Sie Ihre Sprache."
+}

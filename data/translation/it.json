@@ -1,0 +1,16 @@
+{
+    "name": "Italiano 🇮🇹",
+    "ownerSelfNotAllow": "Non puoi inviare messaggi a te stesso. ❌",
+    "onCooldown": "Stai cercando di inviare messaggi troppo velocemente! Rallenta. Attendi {timeLeft} secondi",
+    "newLanguageSet": "Lingua dell'interfaccia impostata su Italiano! 🇮🇹",
+    "pollReplyPost": "A causa delle limitazioni dell'API di Telegram, il bot deve creare un proprio sondaggio. I voti del sondaggio originale non verranno trasferiti. È possibile visualizzare e inoltrare il nuovo sondaggio qui sopra.",
+    "messageSent": "Il tuo messaggio è stato inviato con successo! ✅",
+    "helpMessage": "👋🏻 Benvenuto nel bot dei messaggi anonimi!\n✍🏻 Inviami un messaggio e lo inoltrerò anonimamente al mio creatore. \nℹ️ Leggi di più su di me - /info\n🔡 Cambia la lingua dell'interfaccia - /language\n🔐 Cancella i tuoi dati - /data\n❕Notice❕\nSfortunatamente a causa di limitazioni non posso inoltrare direttamente un messaggio di sondaggio, ma mi assicurerò di lasciare una nota con la quantità originale di voti.",
+    "infoMessage": "Il codice che sta dietro a tutto questo è open-source.\nIl motivo per cui l'ho realizzato è che un bot simile ha iniziato a bombardarmi di pubblicità. Questo è un progetto senza scopo di lucro, non ci sono pubblicità e la raccolta dei dati è ridotta al minimo. Se sei un amministratore di un canale che vuole usare questo bot per se stesso, sentiti libero di ospitarlo tu stesso. Maggiori informazioni qui.\nhttps://github.com/iceeburr/anonmessagesbot",
+    "dataMessage": "Questo bot segue una rigorosa politica di non raccolta dei dati. Il tuo ID utente viene mantenuto criptato e con hashtag. Questo bot non vi invierà mai pubblicità né conserverà statistiche. Se desideri cancellare completamente i tuoi dati, premi il pulsante sottostante. Se decidi di utilizzare nuovamente il bot, verrai reinserito nel database",
+    "deleteData": "🗑 CANCELLA I MIEI DATI 🗑",
+    "dataDeleted": "I vostri dati sono stati cancellati",
+    "confirmSend": "Conferma ✅",
+    "confirmMessage": "Sei sicuro di volerlo inviare?",
+    "languageSelect": "Si prega di selezionare la propria lingua."
+}

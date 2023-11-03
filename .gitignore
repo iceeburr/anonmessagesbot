@@ -1,0 +1,12 @@
+# Ignore sensitive data files like the database and envronmental variables file.
+# You will have to add these manually to the data folder in the format.
+# There are 2 .example files to show how it will look like.
+.env
+data.db
+
+# Ignore the test build file of index.ts when converted to javascript.
+# Depending on your environment you will be using a differnt method for this.
+index.js
+
+# Ignore node modules folder.
+node_modules

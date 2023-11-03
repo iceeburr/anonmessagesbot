@@ -1,0 +1,16 @@
+{
+    "name": "Türkçe 🇹🇷",
+    "ownerSelfNotAllow": "Kendinize mesaj gönderemezsiniz. ❌",
+    "onCooldown": "Çok hızlı mesaj göndermeye çalışıyorsunuz! Yavaşla.\nLütfen {timeLeft} saniye bekle.",
+    "newLanguageSet": "Arayüz dili Türkçe olarak ayarlandı! 🇹🇷",
+    "pollReplyPost": "Telegram'ın API sınırlamaları nedeniyle, bot kendi anketini oluşturmak zorundadır. Orijinal anketteki oylar taşınmayacaktır. Yeni anketi yukarıda görüntüleyebilir ve iletebilirsiniz.",
+    "messageSent": "Mesajınız başarıyla gönderildi! ✅",
+    "helpMessage": "👋🏻 Anonim mesaj botuna hoş geldiniz!\n✍🏻 Bana bir mesaj gönderin ve ben de anonim olarak onu yaratıcıma ileteyim.\nℹ️ Hakkımda daha fazlasını okuyun - /info\n🔡 Arayüz dilini değiştirin - /language\n🔐 Verilerinizi silin - /data\n\n❕Uyarı❕\nNe yazık ki sınırlamalar nedeniyle bir anket mesajını doğrudan iletemiyorum, ancak orijinal oy miktarıyla birlikte bir not bırakacağımdan emin olacağım.",
+    "infoMessage": "Tüm bunların arkasındaki kod açık kaynaklıdır.\nBunu yapmamın tek nedeni, benzer bir botun beni reklamlarla bombalamaya başlamasıydı. Bu kar amacı gütmeyen bir projedir, reklam yoktur ve veri toplama minimumda tutulmaktadır. Bu botu kendisi için kullanmak isteyen bir kanalın yöneticisiyseniz, kendiniz barındırmaktan çekinmeyin. Daha fazlası burada.\nhttps://github.com/iceeburr/anonmessagesbot",
+    "dataMessage": "Bu bot katı bir veri toplamama politikası izler. Kullanıcı kimliğiniz şifrelenmiş ve karma olarak tutulur. Bu bot size asla reklam göndermeyecek veya herhangi bir istatistik tutmayacaktır. Verilerinizi tamamen silmek isterseniz lütfen aşağıdaki düğmeye basın. Botu tekrar kullanmaya karar verirseniz, veritabanına yeniden ekleneceksiniz.",
+    "deleteData": "🗑 VERILERIMI SIL 🗑",
+    "dataDeleted": "Verileriniz silindi.",
+    "confirmSend": "Onayla ✅",
+    "confirmMessage": "Göndermek istediğinizden emin misiniz?",
+    "languageSelect": "Lütfen dilinizi seçin."
+}

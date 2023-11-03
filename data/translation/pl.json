@@ -1,0 +1,16 @@
+{
+    "name": "Polski 🇵🇱",
+    "ownerSelfNotAllow": "Nie możesz wysyłać wiadomości do siebie. ❌",
+    "onCooldown": "Próbujesz wysyłać wiadomości zbyt szybko! Zwolnij.\nPoczekaj {timeLeft} sekund.",
+    "newLanguageSet": "Język interfejsu ustawiony na polski! 🇵🇱",
+    "pollReplyPost": "Ze względu na ograniczenia API Telegrama, bot musi utworzyć własną ankietę. Głosy z oryginalnej ankiety nie zostaną przeniesione. Możesz wyświetlić i przesłać dalej nową ankietę powyżej.",
+    "messageSent": "Twoja wiadomość została pomyślnie wysłana! ✅",
+    "helpMessage": "👋🏻 Witamy w bocie anonimowych wiadomości!\n✍🏻 Wyślij mi wiadomość, a ja anonimowo przekażę ją mojemu twórcy.\nℹ️ Przeczytaj więcej o mnie - /info\n🔡 Zmień język interfejsu - /language\n🔐 Usuń swoje dane - /data\n\n❕Notice❕\nNiestety z powodu ograniczeń nie mogę bezpośrednio przekazać wiadomości z ankietą, ale upewnię się, że zostawię notatkę z oryginalną liczbą głosów.",
+    "infoMessage": "Kod stojący za tym wszystkim jest open-source.\nCałym powodem, dla którego to stworzyłem, było to, że podobny bot zaczął bombardować mnie reklamami. Jest to projekt non-profit, nie ma reklam, a gromadzenie danych jest ograniczone do minimum. Jeśli jesteś administratorem kanału, który chce używać tego bota dla siebie, możesz go hostować samodzielnie. Więcej informacji na ten temat można znaleźć tutaj.\nhttps://github.com/iceeburr/anonmessagesbot",
+    "dataMessage": "Ten bot przestrzega ścisłej polityki nie gromadzenia danych. Identyfikator użytkownika jest szyfrowany i hashowany. Ten bot nigdy nie wysyła reklam ani nie przechowuje żadnych statystyk. Jeśli chcesz całkowicie usunąć swoje dane, naciśnij przycisk poniżej. Jeśli zdecydujesz się ponownie użyć bota, zostaniesz ponownie dodany do bazy danych.",
+    "deleteData": "🗑 USUŃ MOJE DANE 🗑",
+    "dataDeleted": "Twoje dane zostały usunięte.",
+    "confirmSend": "Potwierdź ✅",
+    "confirmMessage": "Czy na pewno chcesz to wysłać?",
+    "languageSelect": "Wybierz swój język."
+}

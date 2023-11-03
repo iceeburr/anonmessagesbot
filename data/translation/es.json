@@ -1,0 +1,16 @@
+{
+    "name": "Español 🇪🇸",
+    "ownerSelfNotAllow": "No puedes enviarte mensajes a ti mismo. ❌",
+    "onCooldown": "¡Estás intentando enviar mensajes demasiado rápido! Espera {timeLeft} segundos",
+    "newLanguageSet": "¡Idioma de interfaz establecido en español! 🇪🇸",
+    "pollReplyPost": "Debido a las limitaciones de la API de Telegram, el bot tiene que crear su propia encuesta. Los votos de la encuesta original no se transferirán. Puedes ver y reenviar la nueva encuesta más arriba",
+    "messageSent": "¡Tu mensaje ha sido enviado con éxito! ✅",
+    "helpMessage": "👋🏻 ¡Bienvenido al bot de mensajes anónimos!\n✍🏻 Envíame un mensaje y se lo reenviaré anónimamente a mi creador. \nℹ️ Lee más sobre mí - /info\n🔡 Cambia el idioma de la interfaz - /language\n🔐 Borra tus datos - /data\n\n❕Notice❕\nLamentablemente por limitaciones no puedo reenviar directamente un mensaje de encuesta, pero me aseguraré de dejar una nota con la cantidad original de votos.",
+    "infoMessage": "El código detrás de todo esto es de código abierto.\nLa razón por la que hice esto fue porque un bot similar comenzó a bombardearme con anuncios. Este es un proyecto sin ánimo de lucro, no hay anuncios y la recopilación de datos se mantiene al mínimo. Si eres un administrador de un canal que quiere usar este bot para sí mismo, siéntete libre de alojarlo tú mismo. Más información aquí.\nhttps://github.com/iceeburr/anonmessagesbot",
+    "dataMessage": "Este bot sigue una estricta política de no recopilación de datos. Tu ID de usuario se mantiene encriptado y con hash. Este bot nunca te enviará publicidad ni guardará estadísticas. Si deseas borrar completamente tus datos, pulsa el botón de abajo. Si decides volver a utilizar el bot, se te volverá a añadir a la base de datos",
+    "deleteData": "🗑 BORRAR MIS DATOS 🗑",
+    "dataDeleted": "Tus datos han sido borrados",
+    "confirmSend": "Confirmar ✅",
+    "confirmMessage": "¿Seguro que quieres enviarlo?",
+    "languageSelect": "Por favor, seleccione su idioma."
+}

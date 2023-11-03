@@ -1,0 +1,16 @@
+{
+    "name": "English 🇺🇸",
+    "ownerSelfNotAllow": "You can't send messages to yourself. ❌",
+    "onCooldown": "You are trying to send messages too fast! Slow down.\nPlease wait {timeLeft} seconds.",
+    "newLanguageSet": "Interface language set to English! 🇺🇸",
+    "pollReplyPost": "Due to Telegram's API limitations, the bot has to create its own poll. Votes from the original poll will not carry over. You can view and forward the new poll above.",
+    "messageSent": "Your message has been successfully sent! ✅",
+    "helpMessage": "👋🏻 Welcome to the anonymous messages bot!\n✍🏻 Send me a message and I will anonymously forward it to my creator.\nℹ️ Read more about me - /info\n🔡 Change the interface language - /language\n🔐 Delete your data - /data\n\n❕Notice❕\nSadly because of limitations I can't directly forward a poll message, but I will make sure to leave a note with the original amount of votes.",
+    "infoMessage": "The code behind all of this is open-source.\nThe whole reason I made this was because a similar bot started bombing me with ads. This is a non-profit project, there are no advertisements and data collection is kept at minimum. If you are an admin of a channel seeking to use this bot for himself feel free to host it yourself. More about it here.\nhttps://github.com/iceeburr/anonmessagesbot",
+    "dataMessage": "This bot follows a strict no data collection policy. Your user id is kept encrypted and hashed. This bot will never send you advertisements or keep any statistics. If you wish to completely wipe off your data please press the button below. If you decide to use the bot again you will be re-added into the database.",
+    "deleteData": "🗑 DELETE MY DATA 🗑",
+    "dataDeleted": "Your data has been deleted.",
+    "confirmSend": "Confirm ✅",
+    "confirmMessage": "Are you sure you want to send it?",
+    "languageSelect": "Please select your language."
+}
